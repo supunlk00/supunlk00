@@ -20,8 +20,7 @@
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats (Fallback)
-![GitHub followers](https://img.shields.io/github/followers/supunlk00?label=Followers&style=flat&logo=github)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=supunlk00&layout=compact)
 
 
 ---
