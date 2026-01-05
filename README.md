@@ -18,13 +18,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=supunlk00&layout=compact)
-
-
----
-
 ## 🧪 Currently Working On
 - 📚 University Projects  
 - 🧪 Test Case Writing & Manual Testing  
