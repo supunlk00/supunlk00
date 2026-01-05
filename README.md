@@ -19,7 +19,11 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=supunlk00)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=supunlk00&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://streak-stats.demolab.com?user=supunlk00&theme=tokyonight" width="48%"/>
+</p>
 
 ---
 
