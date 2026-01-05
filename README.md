@@ -20,9 +20,9 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://gh-readme-profile.vercel.app/api?username=supunlk00&theme=dark" width="49%"/>
-</p>
+## 📊 GitHub Stats (Fallback)
+![GitHub followers](https://img.shields.io/github/followers/supunlk00?label=Followers&style=flat&logo=github)
+
 
 ---
 
